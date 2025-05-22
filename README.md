@@ -19,21 +19,22 @@ Inspired by [GerosMonitor 2.0](https://www.deviantart.com/geroyuni/art/GerosMoni
 
 1.  If you don't have it, download and install Rainmeter from the [official website](https://www.rainmeter.net/).
 2.  Download the ZIP file of this repository and extract its contents to your Rainmeter skins folder (usually in `Documents\Rainmeter\Skins`).
-3.  **Load the Skin:**
-    * Open Rainmeter.
-    * Navigate to `squares` (or the name you give your skin folder) in the Rainmeter manage window.
-    * Double-click the `.ini` file (e.g., `squares.ini`) to load the skin.
-
-
+3.  Load the skin.
+      1. Right-click the Rainmeter icon in the System Tray, and select **Manage**.
+      2. Select **Refresh all** in the Rainmeter manage window.
+      3. Expand `squares` (or the name you give your skin folder).
+      4. Select `squares.ini` and select **Load** to load the skin.
+      5. Set the skin position to **Stay topmost**.
+4. Position the skin on the taskbar.
 
 ## Customization
 
 You can customize the skin by editing the `[Variables]` section in the `.ini` file.
 
 1.  Right-click on the skin on your desktop.
-2.  Select `Edit skin`.
+2.  Select **Edit skin**.
 3.  Modify the variables under the `[Variables]` section.
-4.  Save the file and then right-click on the skin and select `Refresh skin` to apply changes.
+4.  Save the file and then right-click on the skin and select **Refresh skin** to apply changes.
 
 Here's a breakdown of the key customizable variables:
 
@@ -60,15 +61,11 @@ Here's a breakdown of the key customizable variables:
 
 
 ## Requirements
-
 * [Rainmeter](https://www.rainmeter.net/)
-
 
 ## Contributing
 
 Feel free to fork this repository, make improvements, and submit pull requests.
-
----
 
 ## License
 
