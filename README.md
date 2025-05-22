@@ -44,16 +44,16 @@ Here's a breakdown of the key customizable variables:
 * **`ColsUsed`**, **`RowsUsed`**: Adjust the number of columns and rows used by the skin to fit your desired layout.
 * **`MeasureNetworkTotal/25000000`**: In `[MeasureNetworkPct]`, the `25000000` represents the maximum network speed in bytes per second. Adjust this value to match your internet connection speed for accurate percentage readings. (e.g., for a 100 Mbps connection, it's `12500000` bytes/s (100 * 10^6 / 8)).
 * **`Instance` in `[MeasureGPUUsage]`**: If your GPU usage isn't displaying correctly, you may need to adjust the `Instance` value to match your specific GPU's 3D engine instance.
-  * Open Terminal
-  * Enter `typeperf -qx "\GPU Engine" to see a dump of all counters in the GPU Engine category.
-  * Look for lines like these:
+  1. Open Terminal
+  2. Enter `typeperf -qx "\GPU Engine" to see a dump of all counters in the GPU Engine category.
+  3. Look for lines like these:
  
       PID4 is the system-wide 3D utilization.
       ```bash
         \GPU Engine(pid_4268_luid_0x00000000_0x00012507_phys_0_eng_0_engtype_3D)\Utilization Percentage
         \GPU Engine(pid_4_luid_0x00000000_0x00012507_phys_0_eng_0_engtype_3D)\Utilization Percentage
       ```
-  * Replace the instance in `[MeasureGPUUsage]`.
+  4. Replace the instance in `[MeasureGPUUsage]`.
 
 
 
