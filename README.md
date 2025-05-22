@@ -1,10 +1,8 @@
-# rainmeter-dots
-
-# System Monitor Rainmeter Skin
+# dots: system monitor skin for Rainmeter
 
 A Rainmeter skin to monitor your system resources that fits within the Windows taskbar.
 
-
+![Example of Dots in the Windows taskbar.](example.png "Dots in the Windows taskbar")
 
 ## Features
 
