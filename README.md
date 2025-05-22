@@ -1,4 +1,4 @@
-# dots: system monitor skin for Rainmeter
+# squares: system monitor skin for Rainmeter
 
 A Rainmeter skin to monitor your system resources that fits within the Windows taskbar.
 
@@ -21,8 +21,8 @@ Inspired by [GerosMonitor 2.0](https://www.deviantart.com/geroyuni/art/GerosMoni
 2.  Download the ZIP file of this repository and extract its contents to your Rainmeter skins folder (usually in `Documents\Rainmeter\Skins`).
 3.  **Load the Skin:**
     * Open Rainmeter.
-    * Navigate to `dots` (or the name you give your skin folder) in the Rainmeter manage window.
-    * Double-click the `.ini` file (e.g., `dots.ini`) to load the skin.
+    * Navigate to `squares` (or the name you give your skin folder) in the Rainmeter manage window.
+    * Double-click the `.ini` file (e.g., `squares.ini`) to load the skin.
 
 
 
