@@ -8,7 +8,7 @@ Inspired by [GerosMonitor 2.0](https://www.deviantart.com/geroyuni/art/GerosMoni
 
 ## Features
 
-* **Compact:** Displays key system metrics in the Windows taskbar.
+* **Compact:** Displays key system metrics in the Windows taskbar using Rainmeter's built-in plugins.
 * **Monitoring:** Keep an eye on CPU, RAM, Disk Usage (C: and D: drives), Network activity (download/upload), memory pressure (basic), and GPU utilization.
 * **Graphs:** Hover over each metric's square to reveal a real-time historical graph.
 * **Customizable:** Easily adjust fonts, colors, labels, and layout directly from the skin's variables.
