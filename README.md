@@ -2,6 +2,8 @@
 
 A Rainmeter skin to monitor your system resources that fits within the Windows taskbar.
 
+Inspired by [GerosMonitor 2.0](https://www.deviantart.com/geroyuni/art/GerosMonitor-for-Rainmeter-749877799).
+
 ![Example of Dots in the Windows taskbar.](example.png "Dots in the Windows taskbar")
 
 ## Features
