@@ -45,7 +45,7 @@ Here's a breakdown of the key customizable variables:
 * **`MeasureNetworkTotal/25000000`**: In `[MeasureNetworkPct]`, the `25000000` represents the maximum network speed in bytes per second. Adjust this value to match your internet connection speed for accurate percentage readings. (e.g., for a 100 Mbps connection, it's `12500000` bytes/s (100 * 10^6 / 8)).
 * **`Instance` in `[MeasureGPUUsage]`**: If your GPU usage isn't displaying correctly, you may need to adjust the `Instance` value to match your specific GPU's 3D engine instance.
   1. Open Terminal
-  2. Enter `typeperf -qx "\GPU Engine" to see a dump of all counters in the GPU Engine category.
+  2. Enter `typeperf -qx "\GPU Engine"` to see a dump of all counters in the GPU Engine category.
   3. Look for lines like these:
  
       PID4 is the system-wide 3D utilization.
